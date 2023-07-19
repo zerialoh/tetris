@@ -1,0 +1,25 @@
+body {
+  font-family: "Kanit", monospaced;
+  background-color: #0a0908;
+  color: #eae0d5;
+  text-align: center;
+}
+
+h1 {
+  color: #ee9b00;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+#box {
+  width: 290px;
+  border: 4px solid #ee9b00;
+  padding: 10px;
+  margin: 12px;
+}
